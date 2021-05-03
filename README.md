@@ -39,6 +39,17 @@ Data viz according to the job type :
 
 ![jobofferparis19Assistanat commercial](https://user-images.githubusercontent.com/76606558/116888917-49b3f100-ac2c-11eb-98d6-80e00dc705e3.png)
 
+We also made a ratio between job offer and job demand to highlight the sector with the most difficulty to recruit.
+
+![ratio1](https://user-images.githubusercontent.com/76606558/116889277-a9aa9780-ac2c-11eb-9d30-192bc55a1274.png)
+
+We can see that certain jobs has more offers than requests.
+
+![ratio2](https://user-images.githubusercontent.com/76606558/116889406-cd6ddd80-ac2c-11eb-9b3b-e67b3f2c271d.png)
+
+Here we can see that "Action sociale" job category has a job offer / demand ratio of more than 40:1.
+
+
 4. Data 
 5. API scraping from the French Employment Agency website. 
 Final Project Ironhack with Vinamrata Yadeev. Worked for Hello Doe, a French start up in student job recruitment.
