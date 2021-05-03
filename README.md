@@ -49,7 +49,7 @@ We can see that certain jobs has more offers than requests.
 
 Here we can see that "Action sociale" job category has a job offer / demand ratio of more than 40:1.
 
-
+<img width="346" alt="Capture d’écran 2021-05-03 à 16 46 28" src="https://user-images.githubusercontent.com/76606558/116891564-276fa280-ac2f-11eb-8ec4-c51d8c351abb.png">
 
 3. Prediction model
    Our client needed a prediction of the job offer and job request for the coming months to facilitate the business developper's job. We have datasets 2010 - 2020      in job offers. We made a model out of 2010 - 2018 and test it on 2019. We had an overall MAPE of 52.48404702177265 but if we take a closer look our model            predicts with less errors for certain jobs. *The lower the MAPE score the better*
@@ -64,5 +64,15 @@ So we took this model to predict 2021 job offer
 
 Here we can see a nudge of job offers in the second trimester because model sees this nudge in the past years.
 
-6. API scraping from the French Employment Agency website. 
-Final Project Ironhack with Vinamrata Yadeev. Worked for Hello Doe, a French start up in student job recruitment.
+**In conclusion 
+
+With this project, we demonstrated our skills to
+-collaborate
+-scrape data via api
+-clean, manipulate and vizualize complex data
+-make a hypothesis and test it
+-make a prediction model and evaluate it
+-use the domain expertise of our client to make sense of our work
+
+Model used: 
+FBProphet
