@@ -16,7 +16,7 @@ Dataset content
 
 Workflow
 
-1. Dataset import
+1. Dataset import 
    API and web scraping from the French Employment Agency website. The website contains data about job offers and job requests from actual and recent years. 
 2. Data cleaning, data manipulation and data visualization
    The challenge with the datasets from Pole Emploi is the size, the redundancies and the datas present multiple dimensions (places, time and professions) which        present some challenge for the visualization
@@ -29,6 +29,16 @@ We clean and filter our data. This is the subcleaned, raw data.
 
 And this one is the cleaned and filtered data ready for visualizations and other manipulations.
 
-4. 
+After some manipulation, here's what the data visualization about job offer and demand look like 
+
+![joboffertop20](https://user-images.githubusercontent.com/76606558/116888660-05c0ec00-ac2c-11eb-8da8-07fbeb8d5245.png)
+
+Visualization of the top 20 job offers in Paris in 2019
+
+Data viz according to the job type :
+
+![jobofferparis19Assistanat commercial](https://user-images.githubusercontent.com/76606558/116888917-49b3f100-ac2c-11eb-98d6-80e00dc705e3.png)
+
+4. Data 
 5. API scraping from the French Employment Agency website. 
 Final Project Ironhack with Vinamrata Yadeev. Worked for Hello Doe, a French start up in student job recruitment.
