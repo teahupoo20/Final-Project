@@ -31,11 +31,11 @@ And this one is the cleaned and filtered data ready for visualizations and other
 
 After some manipulation, here's what the data visualization about job offer and demand look like 
 
-![joboffertop20](https://user-images.githubusercontent.com/76606558/116888660-05c0ec00-ac2c-11eb-8da8-07fbeb8d5245.png)
-
                               Visualization of the top 20 job offers in Paris in 2019
 
-Data viz according to the job type :
+![joboffertop20](https://user-images.githubusercontent.com/76606558/116888660-05c0ec00-ac2c-11eb-8da8-07fbeb8d5245.png)
+
+                              Data viz according to the job type :
 
 ![jobofferparis19Assistanat commercial](https://user-images.githubusercontent.com/76606558/116888917-49b3f100-ac2c-11eb-98d6-80e00dc705e3.png)
 
