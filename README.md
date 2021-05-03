@@ -58,7 +58,7 @@ Hello Doe is a startup whose mission is to help companies recruit for student jo
 
 <img width="346" alt="Capture d’écran 2021-05-03 à 16 46 28" src="https://user-images.githubusercontent.com/76606558/116913108-5c88ee80-ac49-11eb-9ea2-64ea6b6c00ee.png">
 
-3. Prediction model
+**3. Prediction model**
 
    Our client needed a prediction of the job offer and job request for the coming months to facilitate the business developper's job. We have datasets 2010 - 2020      in job offers. We made a model out of 2010 - 2018 and test it on 2019. We had an overall MAPE of 52.48404702177265 but if we take a closer look our model            predicts with less errors for certain jobs. *The lower the MAPE score the better*
    
@@ -79,11 +79,17 @@ Hello Doe is a startup whose mission is to help companies recruit for student jo
 
 With this project, we demonstrated our skills to
 -collaborate
+
 -scrape data via api
+
 -clean, manipulate and vizualize complex data
+
 -make a hypothesis and test it
+
 -make a prediction model and evaluate it
+
 -use the domain expertise of our client to make sense of our work
+
 
 Model used: 
 FBProphet
