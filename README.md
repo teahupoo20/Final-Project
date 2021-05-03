@@ -91,5 +91,6 @@ With this project, we demonstrated our skills to
 -use the domain expertise of our client to make sense of our work
 
 
-Model used: 
-FBProphet
+Keywords :
+
+Python, Pandas, FBProphet, Tableau
