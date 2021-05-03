@@ -15,9 +15,10 @@ Hello Doe is a startup whose mission is to help companies recruit for student jo
 
 **Workflow**
 
-**1. Dataset import **
+**1. Dataset import**
 
    API and web scraping from the French Employment Agency website. The website contains data about job offers and job requests from actual and recent years. 
+   
 **2. Data cleaning, data manipulation and data visualization**
 
    The challenge with the datasets from Pole Emploi is the size, the redundancies and the datas present multiple dimensions (places, time and professions) which        present some challenge for the visualization
