@@ -39,15 +39,13 @@ After some manipulation, here's what the data visualization about job offer and 
 
 ![jobofferparis19Assistanat commercial](https://user-images.githubusercontent.com/76606558/116888917-49b3f100-ac2c-11eb-98d6-80e00dc705e3.png)
 
-We also made a ratio between job offer and job demand to highlight the sector with the most difficulty to recruit.
+                              We also made a ratio between job offer and job demand to highlight the sector with the most difficulty to recruit.
 
 ![ratio1](https://user-images.githubusercontent.com/76606558/116913288-92c66e00-ac49-11eb-9159-fa1b1526123c.png)
 
-We can see that certain jobs has more offers than requests.
+                              Here we can see that "Action sociale" job category has a job offer / demand ratio of more than 40:1.
 
 ![ratio2](https://user-images.githubusercontent.com/76606558/116912979-37947b80-ac49-11eb-8934-269ea3e9a76a.png)
-
-Here we can see that "Action sociale" job category has a job offer / demand ratio of more than 40:1.
 
 <img width="346" alt="Capture d’écran 2021-05-03 à 16 46 28" src="https://user-images.githubusercontent.com/76606558/116913108-5c88ee80-ac49-11eb-9ea2-64ea6b6c00ee.png">
 
