@@ -24,15 +24,15 @@ Workflow
                                                 RAW JOB OFFERS DATASET 
    <img width="959" alt="Capture d’écran 2021-04-21 à 14 56 18" src="https://user-images.githubusercontent.com/76606558/115557334-e59b3f80-a2b1-11eb-94b7-66865be079e0.png">
 
-We clean and filter our data. This is the subcleaned, raw data.
+   We clean and filter our data. This is the subcleaned, raw data.
 
                                                 JOB OFFERS DATASET AFTER DATA CLEANING
 
 <img width="652" alt="Capture d’écran 2021-04-21 à 14 56 51" src="https://user-images.githubusercontent.com/76606558/115557480-06639500-a2b2-11eb-8ec8-03c7038869c4.png">
 
-And this one is the cleaned and filtered data ready for visualizations and other manipulations.
+   And this one is the cleaned and filtered data ready for visualizations and other manipulations.
 
-After some manipulation, here's what the data visualization about job offer and demand look like 
+   After some manipulation, here's what the data visualization about job offer and demand look like 
 
                               Visualization of the top 20 job offers in Paris in 2019
 
@@ -42,11 +42,13 @@ After some manipulation, here's what the data visualization about job offer and 
 
 ![jobofferparis19Assistanat commercial](https://user-images.githubusercontent.com/76606558/116888917-49b3f100-ac2c-11eb-98d6-80e00dc705e3.png)
 
-                              We also made a ratio between job offer and job demand to highlight the sector with the most difficulty to recruit.
+                              We also made a ratio between job offer and job demand to highlight the sector with 
+                              the most difficulty to recruit.
 
 ![ratio1](https://user-images.githubusercontent.com/76606558/116913288-92c66e00-ac49-11eb-9159-fa1b1526123c.png)
 
-                              Here we can see that "Action sociale" job category has a job offer / demand ratio of more than 40:1.
+                              Here we can see that "Action sociale" job category has a job offer / demand ratio 
+                              of more than 40:1.
 
 ![ratio2](https://user-images.githubusercontent.com/76606558/116912979-37947b80-ac49-11eb-8934-269ea3e9a76a.png)
 
@@ -61,15 +63,16 @@ After some manipulation, here's what the data visualization about job offer and 
    
    Here the MAPE for "Actions sociales" is around 10 where for "Agent de distribution" it is around 323. This could be explained probably by an evolution in the job    industry for those with high MAPE scores and a stable sector for those with low MAPE scores.
 
-So we took this model to predict 2021 job offer 
+   So we took this model to predict 2021 job offer 
 
                               Job offer prediction for 2021. One data point represents a trimester.
 
 <img width="925" alt="Capture d’écran 2021-05-03 à 16 34 25" src="https://user-images.githubusercontent.com/76606558/116890976-7e28ac80-ac2e-11eb-811a-4467db99e635.png">
 
-Here we can see a nudge of job offers in the second trimester because model sees this nudge in the past years.
+   Here we can see a nudge of job offers in the second trimester because model sees this nudge in the past years.
 
-**In conclusion 
+
+**In conclusion**
 
 With this project, we demonstrated our skills to
 -collaborate
