@@ -21,9 +21,12 @@ Workflow
 2. Data cleaning, data manipulation and data visualization
    The challenge with the datasets from Pole Emploi is the size, the redundancies and the datas present multiple dimensions (places, time and professions) which        present some challenge for the visualization
    
+                                                RAW JOB OFFERS DATASET 
    <img width="959" alt="Capture d’écran 2021-04-21 à 14 56 18" src="https://user-images.githubusercontent.com/76606558/115557334-e59b3f80-a2b1-11eb-94b7-66865be079e0.png">
 
 We clean and filter our data. This is the subcleaned, raw data.
+
+                                                JOB OFFERS DATASET AFTER DATA CLEANING
 
 <img width="652" alt="Capture d’écran 2021-04-21 à 14 56 51" src="https://user-images.githubusercontent.com/76606558/115557480-06639500-a2b2-11eb-8ec8-03c7038869c4.png">
 
@@ -47,6 +50,8 @@ After some manipulation, here's what the data visualization about job offer and 
 
 ![ratio2](https://user-images.githubusercontent.com/76606558/116912979-37947b80-ac49-11eb-8934-269ea3e9a76a.png)
 
+                              We can visualize the plot differently with bubble plot. This plot is made using Tableau.
+
 <img width="346" alt="Capture d’écran 2021-05-03 à 16 46 28" src="https://user-images.githubusercontent.com/76606558/116913108-5c88ee80-ac49-11eb-9ea2-64ea6b6c00ee.png">
 
 3. Prediction model
@@ -54,9 +59,11 @@ After some manipulation, here's what the data visualization about job offer and 
    
    <img width="839" alt="Capture d’écran 2021-05-03 à 16 37 44" src="https://user-images.githubusercontent.com/76606558/116890538-08bcdc00-ac2e-11eb-9aba-2ff01be3af05.png">
    
-   Here the MAPE for "Actions sociales" is around 10 where for "Agent de distribution" it is around 323. This could be explained probably by an evolution in the job industry for those with high MAPE scores and a stable sector for those with low MAPE scores.
+   Here the MAPE for "Actions sociales" is around 10 where for "Agent de distribution" it is around 323. This could be explained probably by an evolution in the job    industry for those with high MAPE scores and a stable sector for those with low MAPE scores.
 
 So we took this model to predict 2021 job offer 
+
+                              Job offer prediction for 2021. One data point represents a trimester.
 
 <img width="925" alt="Capture d’écran 2021-05-03 à 16 34 25" src="https://user-images.githubusercontent.com/76606558/116890976-7e28ac80-ac2e-11eb-811a-4467db99e635.png">
 
