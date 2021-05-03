@@ -33,7 +33,7 @@ After some manipulation, here's what the data visualization about job offer and 
 
 ![joboffertop20](https://user-images.githubusercontent.com/76606558/116888660-05c0ec00-ac2c-11eb-8da8-07fbeb8d5245.png)
 
-Visualization of the top 20 job offers in Paris in 2019
+                     Visualization of the top 20 job offers in Paris in 2019
 
 Data viz according to the job type :
 
