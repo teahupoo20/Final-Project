@@ -14,11 +14,13 @@ Questions to answer :
 
 Dataset content
 
-Workflow
+**Workflow**
 
 1. Dataset import 
+
    API and web scraping from the French Employment Agency website. The website contains data about job offers and job requests from actual and recent years. 
 2. Data cleaning, data manipulation and data visualization
+
    The challenge with the datasets from Pole Emploi is the size, the redundancies and the datas present multiple dimensions (places, time and professions) which        present some challenge for the visualization
    
                                                 RAW JOB OFFERS DATASET 
