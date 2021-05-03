@@ -49,7 +49,8 @@ We can see that certain jobs has more offers than requests.
 
 Here we can see that "Action sociale" job category has a job offer / demand ratio of more than 40:1.
 
-<img width="346" alt="Capture d’écran 2021-05-03 à 16 46 28" src="https://user-images.githubusercontent.com/76606558/116891564-276fa280-ac2f-11eb-8ec4-c51d8c351abb.png">
+![ratio2](https://user-images.githubusercontent.com/76606558/116912979-37947b80-ac49-11eb-8934-269ea3e9a76a.png)
+
 
 3. Prediction model
    Our client needed a prediction of the job offer and job request for the coming months to facilitate the business developper's job. We have datasets 2010 - 2020      in job offers. We made a model out of 2010 - 2018 and test it on 2019. We had an overall MAPE of 52.48404702177265 but if we take a closer look our model            predicts with less errors for certain jobs. *The lower the MAPE score the better*
